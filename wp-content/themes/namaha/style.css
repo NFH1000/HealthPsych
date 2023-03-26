@@ -1936,7 +1936,7 @@ body.rounded-corners ul.products li.product a.button.product_type_simple {
 }
 .header-image.loading {
     overflow: hidden;
-    background: url(/wp-content/themes/namaha/library/images/loader.gif) center center no-repeat;
+    background: url(/HealthPsych/wp-content/themes/namaha/library/images/loader.gif) center center no-repeat;
 }
 .header-image.loading .otb-instagram-filter,
 .header-image.loading img,
@@ -2197,7 +2197,7 @@ div.wpcf7-validation-errors {
 }
 .slider-container.default.loading {
     overflow: hidden;
-    background: url(/wp-content/themes/namaha/library/images/loader.gif) center center no-repeat;
+    background: url(/HealthPsych/wp-content/themes/namaha/library/images/loader.gif) center center no-repeat;
 }
 .slider-container.default.loading .slider { 
     visibility: hidden;
@@ -3454,7 +3454,7 @@ figure img {
 }
 
 .featured-image-container.loading {
-	background: url(/wp-content/themes/namaha/library/images/loader.gif) center center no-repeat;
+	background: url(/HealthPsych/wp-content/themes/namaha/library/images/loader.gif) center center no-repeat;
 	background-size: auto !important;
 }
 

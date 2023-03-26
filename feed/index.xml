@@ -9,8 +9,8 @@
 
 <channel>
 	<title>HealthPsych</title>
-	<atom:link href="http://10.0.0.23/feed/?simply_static_page=756" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="http://10.0.0.23/feed/?simply_static_page=902" rel="self" type="application/rss+xml" />
+	<link>/HealthPsych/</link>
 	<description>Connect with a psychologist that understands impact of chronic pain and receive personalised and client focused support.</description>
 	<lastBuildDate>Sun, 26 Mar 2023 11:50:29 +0000</lastBuildDate>
 	<language>en-AU</language>
@@ -21,9 +21,9 @@
 	<generator>https://wordpress.org/?v=6.1.1</generator>
 
 <image>
-	<url>/wp-content/uploads/2023/03/cropped-4326E0E6-2522-4DCE-974E-C65D7982CD6A-1-32x32.png</url>
+	<url>/HealthPsych/wp-content/uploads/2023/03/cropped-4326E0E6-2522-4DCE-974E-C65D7982CD6A-1-32x32.png</url>
 	<title>HealthPsych</title>
-	<link>/</link>
+	<link>/HealthPsych/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
